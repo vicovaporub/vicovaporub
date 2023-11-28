@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Castro
 =====================================================================================================================================
 
-\Aspiring Web Dev testing skills and looking for a job
+Aspiring Web Dev testing skills and looking for a job
 -----------------------------------------------------------
 
 Coding was always lurking near me throughout my life, but only in August/2023 I decided that I really wanted to learn it. I had some help from friends on where to start and since then I have some certificates on Web Development and some fullstack apps that I made for fun and to test my skills.
