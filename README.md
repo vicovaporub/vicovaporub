@@ -9,7 +9,7 @@ Aspiring Web Dev testing skills and looking for a job
 Coding was always lurking near me throughout my life, but only in August/2023 I decided that I really wanted to learn it. I had some help from friends on where to start and since then I have some certificates on Web Development and some fullstack apps that I made for fun and to test my skills.
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🖥️  See my portfolio at (work in progress)
+* 🖥️  See my portfolio page [HERE](https://portifolio-six-pied-77.vercel.app)
 * ✉️  You can contact me at [victor.castro34@gmail.com](mailto:victor.castro34@gmail.com)
 * 🚀  I'm currently working on [Tic Tac Toe app (local play is working and I'm working on online multiplayer)](http://tictactoe-app-tau.vercel.app)
 * 🧠  I'm learning Phyton and Data Analysis
