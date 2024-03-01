@@ -11,7 +11,7 @@ Coding was always lurking near me throughout my life, but only in August/2023 I 
 * 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio page [HERE](https://portifolio-six-pied-77.vercel.app)
 * ✉️  You can contact me at [victor.castro34@gmail.com](mailto:victor.castro34@gmail.com)
-* 🚀  I'm currently working on [Tic Tac Toe app (local play is working and I'm working on online multiplayer)](http://tictactoe-app-tau.vercel.app)
+* 🚀  I'm currently working on putting online multiplayer to my local [Tic Tac Toe](http://tictactoe-app-tau.vercel.app) app
 * 🧠  I'm learning Phyton and Data Analysis
 * 🤝  I'm open to collaborating on fullstack projects
 * ⚡  Working so my cat can have the best life
